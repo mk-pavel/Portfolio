@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 1100px;
+    margin: auto;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu ul li{
+    text-decoration: solid;
+    text-decoration: blueviolet;
+    display: inline-block;
+    margin: 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+}
+/*-- banner start-*/
+#A{
+    background: url(https://i.postimg.cc/prmKS1LN/photo-2022-11-24-22-21-53.jpg);
+    padding: 400px 400px;
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+.text h1 ,h2,h4{
+        color: aliceblue;
+        margin-left: -363px;
+       
+       
+    }
+.text h1,h2{
+        font-size: 100px;
+    
+    } 
+.text h4{
+        font-size: 40px;
+    }
+ 
+ .yoo{
+    margin-top: 30px;
+     margin-left: -360px;
+     border: solid white 1px;
+     border-bottom: none;
+    width: 100%;
+  
+    }
+.iconArea{
+    padding-top: 30px;
+}
+    .iconArea a{
+        color: aliceblue;
+    
+        padding: 20px;
+        font-size: 30px;
+        margin-right: -167px;
+    }
+    .iconArea a:hover{
+        color: aqua;
+    }
+/*-- banner end-*/
+.hoo{
+    margin-top: 80px;
+}
+.text_part{
+    width: 30%;
+    float: left;
+    font-size: 26px;
+    
+}
+.text_part {
+    color: black;
+    margin-left: -112px;
+    
+}
+.text_part2{
+   width: 70%;
+   float: left;
+   font-size: 26px;
+}
+.text_part2 p{
+    color: white;  
+}
+.box
+{
+    height: 200px;
+    width: 550px;
+    background-color: rebeccapurple;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 50px;
+}
+.text_part3,ul,li
+{
+color: white;
+list-style: circle;
+}
+.box2
+{
+    height: 250px;
+    width: 550px;
+    background-color: #c1413d;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 50px;
+}
+.box3
+{
+    height: 200px;
+    width: 550px;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 50px;
+}
+.box4
+{
+    height: 200px;
+    width: 550px;
+    background-color: 
+    border-radius: 20px;
+    margin: 5px;
+    padding: 50px;
+
+}
+.text_part4,ul,li
+{
+color: white;
+}
